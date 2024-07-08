@@ -1,6 +1,6 @@
 # Risk-parity-portfolio-Project
 
-Analytically solved for a risk Parity portfolio-each asset contributing equal risk to ensure true diversification or risk. 
+Analytically solved for a risk Parity portfolio-each asset contributing equal risk to ensure true diversification or risk.(Taking an example portfolio as an example) 
 
 Defined the numerical optimization problem having equality and inequality constraints
 
